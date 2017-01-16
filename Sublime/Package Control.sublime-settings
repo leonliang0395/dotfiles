@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ayu",
+		"Boxy Theme",
+		"Glue",
+		"gruvbox",
+		"Package Control",
+		"SFTP",
+		"Skins",
+		"Theme - Spaceblack"
+	]
+}
